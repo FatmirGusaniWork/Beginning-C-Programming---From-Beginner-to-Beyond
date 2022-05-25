@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section-4" Database="" Version="10000">
+  <Project Name="27-Writing-our-first-program" Path="27-Writing-our-first-program/27-Writing-our-first-program.project" Active="No"/>
+  <Project Name="29-What-Are-Compiler-Errors" Path="29-What-Are-Compiler-Errors/29-What-Are-Compiler-Errors.project" Active="No"/>
+  <Project Name="30-What-Are-Compiler-Warnings" Path="30-What-Are-Compiler-Warnings/30-What-Are-Compiler-Warnings.project" Active="No"/>
+  <Project Name="31-What-Are-Linker-Errors" Path="31-What-Are-Linker-Errors/31-What-Are-Linker-Errors.project" Active="Yes"/>
+  <Project Name="34-Section-Challenge" Path="34-Section-Challenge/34-Section-Challenge.project" Active="No"/>
+  <Project Name="35-Section-Challenge-Solution" Path="35-Section-Challenge-Solution/35-Section-Challenge-Solution.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="27-Writing-our-first-program" ConfigName="Debug"/>
+      <Project Name="29-What-Are-Compiler-Errors" ConfigName="Debug"/>
+      <Project Name="30-What-Are-Compiler-Warnings" ConfigName="Debug"/>
+      <Project Name="31-What-Are-Linker-Errors" ConfigName="Debug"/>
+      <Project Name="34-Section-Challenge" ConfigName="Debug"/>
+      <Project Name="35-Section-Challenge-Solution" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="27-Writing-our-first-program" ConfigName="Release"/>
+      <Project Name="29-What-Are-Compiler-Errors" ConfigName="Release"/>
+      <Project Name="30-What-Are-Compiler-Warnings" ConfigName="Release"/>
+      <Project Name="31-What-Are-Linker-Errors" ConfigName="Release"/>
+      <Project Name="34-Section-Challenge" ConfigName="Release"/>
+      <Project Name="35-Section-Challenge-Solution" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

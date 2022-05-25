@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section-6" Database="" Version="10000">
+  <Project Name="45-Declaring-And-Initializing-Variables" Path="45-Declaring-And-Initializing-Variables/45-Declaring-And-Initializing-Variables.project" Active="No"/>
+  <Project Name="46-Global-Variabes" Path="46-Global-Variabes/46-Global-Variabes.project" Active="No"/>
+  <Project Name="47-C++-Build-In-Primitive-Type" Path="47-C++-Build-In-Primitive-Type/47-C++-Build-In-Primitive-Type.project" Active="No"/>
+  <Project Name="48-What-Is-The-Size-Of-A-Variable" Path="48-What-Is-The-Size-Of-A-Variable/48-What-Is-The-Size-Of-A-Variable.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="45-Declaring-And-Initializing-Variables" ConfigName="Debug"/>
+      <Project Name="45.5-Declaring-And-Initializing-Variables" ConfigName="Debug"/>
+      <Project Name="46-Global-Variabes" ConfigName="Debug"/>
+      <Project Name="47-C++-Build-In-Primitive-Type" ConfigName="Debug"/>
+      <Project Name="48-What-Is-The-Size-Of-A-Variable" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="45-Declaring-And-Initializing-Variables" ConfigName="Release"/>
+      <Project Name="45.5-Declaring-And-Initializing-Variables" ConfigName="Release"/>
+      <Project Name="46-Global-Variabes" ConfigName="Release"/>
+      <Project Name="47-C++-Build-In-Primitive-Type" ConfigName="Release"/>
+      <Project Name="48-What-Is-The-Size-Of-A-Variable" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

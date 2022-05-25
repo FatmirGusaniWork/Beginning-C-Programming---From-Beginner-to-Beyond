@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section-5" Database="" Version="10000">
+  <Project Name="40-The-Main-Function" Path="40-The-Main-Function/40-The-Main-Function.project" Active="No"/>
+  <Project Name="41-NameSpaces" Path="41-NameSpaces/41-NameSpaces.project" Active="No"/>
+  <Project Name="42-Basic-Input-And-Output-Using-Cin-And-Cout" Path="42-Basic-Input-And-Output-Using-Cin-And-Cout/42-Basic-Input-And-Output-Using-Cin-And-Cout.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="40-The-Main-Function" ConfigName="Debug"/>
+      <Project Name="41-NameSpaces" ConfigName="Debug"/>
+      <Project Name="42-Basic-Input-And-Output-Using-Cin-And-Cout" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="40-The-Main-Function" ConfigName="Release"/>
+      <Project Name="41-NameSpaces" ConfigName="Release"/>
+      <Project Name="42-Basic-Input-And-Output-Using-Cin-And-Cout" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
