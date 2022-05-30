@@ -3,7 +3,9 @@
   <Project Name="45-Declaring-And-Initializing-Variables" Path="45-Declaring-And-Initializing-Variables/45-Declaring-And-Initializing-Variables.project" Active="No"/>
   <Project Name="46-Global-Variabes" Path="46-Global-Variabes/46-Global-Variabes.project" Active="No"/>
   <Project Name="47-C++-Build-In-Primitive-Type" Path="47-C++-Build-In-Primitive-Type/47-C++-Build-In-Primitive-Type.project" Active="No"/>
-  <Project Name="48-What-Is-The-Size-Of-A-Variable" Path="48-What-Is-The-Size-Of-A-Variable/48-What-Is-The-Size-Of-A-Variable.project" Active="Yes"/>
+  <Project Name="48-What-Is-The-Size-Of-A-Variable" Path="48-What-Is-The-Size-Of-A-Variable/48-What-Is-The-Size-Of-A-Variable.project" Active="No"/>
+  <Project Name="50-What-Is-A-Constant" Path="50-What-Is-A-Constant/50-What-Is-A-Constant.project" Active="No"/>
+  <Project Name="51-Section-Challenge" Path="51-Section-Challenge/51-Section-Challenge.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -12,6 +14,8 @@
       <Project Name="46-Global-Variabes" ConfigName="Debug"/>
       <Project Name="47-C++-Build-In-Primitive-Type" ConfigName="Debug"/>
       <Project Name="48-What-Is-The-Size-Of-A-Variable" ConfigName="Debug"/>
+      <Project Name="50-What-Is-A-Constant" ConfigName="Debug"/>
+      <Project Name="51-Section-Challenge" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -20,6 +24,8 @@
       <Project Name="46-Global-Variabes" ConfigName="Release"/>
       <Project Name="47-C++-Build-In-Primitive-Type" ConfigName="Release"/>
       <Project Name="48-What-Is-The-Size-Of-A-Variable" ConfigName="Release"/>
+      <Project Name="50-What-Is-A-Constant" ConfigName="Release"/>
+      <Project Name="51-Section-Challenge" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

@@ -1,40 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session Name="C:\Users\Fatmir\OneDrive\Online Study\Udemy\C++ -  Beginner to Beyond\Section-6\Section-6.workspace">
-  <int Value="4" Name="m_selectedTab"/>
-  <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Udemy\C++ -  Beginner to Beyond\Section-6\Section-6.workspace" Name="m_workspaceName"/>
+<Session Name="C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-6\Section-6.workspace">
+  <int Value="2" Name="m_selectedTab"/>
+  <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-6\Section-6.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
-      <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Udemy\C++ -  Beginner to Beyond\Section-6\46-Global-Variabes\main.cpp" Name="FileName"/>
-      <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="13" Name="CurrentLine"/>
+      <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-6\50-What-Is-A-Constant\main.cpp" Name="FileName"/>
+      <int Value="45" Name="FirstVisibleLine"/>
+      <int Value="64" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
-      <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Udemy\C++ -  Beginner to Beyond\Section-6\45-Declaring-And-Initializing-Variables\main.cpp" Name="FileName"/>
-      <int Value="21" Name="FirstVisibleLine"/>
-      <int Value="22" Name="CurrentLine"/>
-      <wxArrayString Name="Bookmarks"/>
-      <IntVector Name="CollapsedFolds"/>
-    </TabInfo>
-    <TabInfo>
-      <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Udemy\C++ -  Beginner to Beyond\Section-6\45.5-Declaring-And-Initializing-Variables\main.cpp" Name="FileName"/>
-      <int Value="6" Name="FirstVisibleLine"/>
-      <int Value="7" Name="CurrentLine"/>
-      <wxArrayString Name="Bookmarks"/>
-      <IntVector Name="CollapsedFolds"/>
-    </TabInfo>
-    <TabInfo>
-      <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Udemy\C++ -  Beginner to Beyond\Section-6\47-C++-Build-In-Primitive-Type\main.cpp" Name="FileName"/>
-      <int Value="33" Name="FirstVisibleLine"/>
-      <int Value="34" Name="CurrentLine"/>
-      <wxArrayString Name="Bookmarks"/>
-      <IntVector Name="CollapsedFolds"/>
-    </TabInfo>
-    <TabInfo>
-      <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Udemy\C++ -  Beginner to Beyond\Section-6\48-What-Is-The-Size-Of-A-Variable\main.cpp" Name="FileName"/>
-      <int Value="1" Name="FirstVisibleLine"/>
+      <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-6\48-What-Is-The-Size-Of-A-Variable\main.cpp" Name="FileName"/>
+      <int Value="14" Name="FirstVisibleLine"/>
       <int Value="15" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-6\51-Section-Challenge\main.cpp" Name="FileName"/>
+      <int Value="37" Name="FirstVisibleLine"/>
+      <int Value="49" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
