@@ -74,20 +74,16 @@ int main() {
     vector_2d.push_back(vector2);
     
     cout << "Display The Elements Of 2D-Vector: " << endl; 
-    cout << vector_2d.at(0).at(0) << endl;
-    cout << vector_2d.at(0).at(1) << endl;
-    cout << vector_2d.at(1).at(0) << endl;
-    cout << vector_2d.at(1).at(1) << endl;
+    cout << vector_2d.at(0).at(0) << ", " << vector_2d.at(0).at(1) << endl;
+    cout << vector_2d.at(1).at(0) << ", " << vector_2d.at(1).at(1) << endl;
     
     cout << "=================================================================" << endl;
     
     vector1.at(0) = 1000;
     
     cout << "Updated Display The Elements Of 2D-Vector: " << endl; 
-    cout << vector_2d.at(0).at(0) << endl;
-    cout << vector_2d.at(0).at(1) << endl;
-    cout << vector_2d.at(1).at(0) << endl;
-    cout << vector_2d.at(1).at(1) << endl;
+    cout << vector_2d.at(0).at(0) << ", " << vector_2d.at(0).at(1) << endl;
+    cout << vector_2d.at(1).at(0) << ", " << vector_2d.at(1).at(1) << endl;
     
     cout << "=================================================================" << endl;
     
@@ -104,7 +100,8 @@ int main() {
 }
 
 /*
-    Frank's Solution
+
+Frank's Solution
     
 #include <iostream>
 #include <vector>
@@ -190,4 +187,4 @@ int main() {
     return 0;
 }
 
-/*
+*/
