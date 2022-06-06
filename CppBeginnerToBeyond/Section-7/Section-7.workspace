@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="Section-7" Database="" Version="10000">
   <Project Name="56-Accessing-And-Modifying-Array-Elements" Path="56-Accessing-And-Modifying-Array-Elements/56-Accessing-And-Modifying-Array-Elements.project" Active="No"/>
-  <Project Name="59-Declaring-And-Initializing-Vectors" Path="59-Declaring-And-Initializing-Vectors/59-Declaring-And-Initializing-Vectors.project" Active="No"/>
-  <Project Name="60-Section-Challenge" Path="60-Section-Challenge/60-Section-Challenge.project" Active="Yes"/>
+  <Project Name="59-Declaring-And-Initializing-Vectors" Path="59-Declaring-And-Initializing-Vectors/59-Declaring-And-Initializing-Vectors.project" Active="Yes"/>
+  <Project Name="60-Section-Challenge" Path="60-Section-Challenge/60-Section-Challenge.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>

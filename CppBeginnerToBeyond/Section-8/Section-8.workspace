@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section-8" Database="" Version="10000">
+  <Project Name="65-The-Assignment-Operator" Path="65-The-Assignment-Operator/65-The-Assignment-Operator.project" Active="No"/>
+  <Project Name="66-Arithmetic-Operators" Path="66-Arithmetic-Operators/66-Arithmetic-Operators.project" Active="No"/>
+  <Project Name="67-Increment-And-Decrement-Operators" Path="67-Increment-And-Decrement-Operators/67-Increment-And-Decrement-Operators.project" Active="No"/>
+  <Project Name="66" Path="66.5-Euro-To-Dollar/66.project" Active="No"/>
+  <Project Name="66" Path="66.7-Coding-Exercise-Using-The-Assignment-Operator/66.project" Active="No"/>
+  <Project Name="66" Path="66.8-Coding-Exercise-Using-The-Arithmetic-Operators/66.project" Active="No"/>
+  <Project Name="68-Mixed-Expressions-And-Conversions" Path="68-Mixed-Expressions-And-Conversions/68-Mixed-Expressions-And-Conversions.project" Active="No"/>
+  <Project Name="69-Testing-For-Equality" Path="69-Testing-For-Equality/69-Testing-For-Equality.project" Active="No"/>
+  <Project Name="70-Relational-Operators" Path="70-Relational-Operators/70-Relational-Operators.project" Active="No"/>
+  <Project Name="71-Logical-Operators" Path="71-Logical-Operators/71-Logical-Operators.project" Active="No"/>
+  <Project Name="73.5-Coding-Exercise-Logical-Operators-And-Operator-Precedence" Path="73.5-Coding-Exercise-Logical-Operators-And-Operator-Precedence/73.5-Coding-Exercise-Logical-Operators-And-Operator-Precedence.project" Active="No"/>
+  <Project Name="74-Section-Challenge" Path="74-Section-Challenge/74-Section-Challenge.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="65-The-Assignment-Operator" ConfigName="Debug"/>
+      <Project Name="66-Arithmetic-Operators" ConfigName="Debug"/>
+      <Project Name="66.5-Euro-To-Dollar" ConfigName="Debug"/>
+      <Project Name="66.7-Coding-Exercise-Using-The-Assignment-Operator" ConfigName="Debug"/>
+      <Project Name="66.8-Coding-Exercise-Using-The-Arithmetic-Operators" ConfigName="Debug"/>
+      <Project Name="67-Increment-And-Decrement-Operators" ConfigName="Debug"/>
+      <Project Name="66.5-Euro-To-Dollar" ConfigName="Debug"/>
+      <Project Name="66.7-Coding-Exercise-Using-The-Assignment-Operator" ConfigName="Debug"/>
+      <Project Name="66.8-Coding-Exercise-Using-The-Arithmetic-Operators" ConfigName="Debug"/>
+      <Project Name="68-Mixed-Expressions-And-Conversions" ConfigName="Debug"/>
+      <Project Name="69-Testing-For-Equality" ConfigName="Debug"/>
+      <Project Name="70-Relational-Operators" ConfigName="Debug"/>
+      <Project Name="71-Logical-Operators" ConfigName="Debug"/>
+      <Project Name="73.5-Coding-Exercise-Logical-Operators-And-Operator-Precedence" ConfigName="Debug"/>
+      <Project Name="74-Section-Challenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="65-The-Assignment-Operator" ConfigName="Release"/>
+      <Project Name="66-Arithmetic-Operators" ConfigName="Release"/>
+      <Project Name="66.5-Euro-To-Dollar" ConfigName="Release"/>
+      <Project Name="66.7-Coding-Exercise-Using-The-Assignment-Operator" ConfigName="Release"/>
+      <Project Name="66.8-Coding-Exercise-Using-The-Arithmetic-Operators" ConfigName="Release"/>
+      <Project Name="67-Increment-And-Decrement-Operators" ConfigName="Release"/>
+      <Project Name="66.5-Euro-To-Dollar" ConfigName="Release"/>
+      <Project Name="66.7-Coding-Exercise-Using-The-Assignment-Operator" ConfigName="Release"/>
+      <Project Name="66.8-Coding-Exercise-Using-The-Arithmetic-Operators" ConfigName="Release"/>
+      <Project Name="68-Mixed-Expressions-And-Conversions" ConfigName="Release"/>
+      <Project Name="69-Testing-For-Equality" ConfigName="Release"/>
+      <Project Name="70-Relational-Operators" ConfigName="Release"/>
+      <Project Name="71-Logical-Operators" ConfigName="Release"/>
+      <Project Name="73.5-Coding-Exercise-Logical-Operators-And-Operator-Precedence" ConfigName="Release"/>
+      <Project Name="74-Section-Challenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
