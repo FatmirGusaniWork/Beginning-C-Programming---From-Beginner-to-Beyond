@@ -10,7 +10,6 @@
   <Project Name="69-Testing-For-Equality" Path="69-Testing-For-Equality/69-Testing-For-Equality.project" Active="No"/>
   <Project Name="70-Relational-Operators" Path="70-Relational-Operators/70-Relational-Operators.project" Active="No"/>
   <Project Name="71-Logical-Operators" Path="71-Logical-Operators/71-Logical-Operators.project" Active="No"/>
-  <Project Name="73.5-Coding-Exercise-Logical-Operators-And-Operator-Precedence" Path="73.5-Coding-Exercise-Logical-Operators-And-Operator-Precedence/73.5-Coding-Exercise-Logical-Operators-And-Operator-Precedence.project" Active="No"/>
   <Project Name="74-Section-Challenge" Path="74-Section-Challenge/74-Section-Challenge.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">

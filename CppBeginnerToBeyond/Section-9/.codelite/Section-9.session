@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-9\Section-9.workspace">
+  <int Value="21" Name="m_selectedTab"/>
+  <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-9\Section-9.workspace" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-9\Section-9-Notes\Notes.txt" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-9\77-If-Statement\main.cpp" Name="FileName"/>
+      <int Value="15" Name="FirstVisibleLine"/>
+      <int Value="16" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-9\78-If-Else-Statement\main.cpp" Name="FileName"/>
+      <int Value="12" Name="FirstVisibleLine"/>
+      <int Value="13" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-9\79.1-Grade\main.cpp" Name="FileName"/>
+      <int Value="5" Name="FirstVisibleLine"/>
+      <int Value="6" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-9\79.2-Shipping\main.cpp" Name="FileName"/>
+      <int Value="16" Name="FirstVisibleLine"/>
+      <int Value="17" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-9\80-Switch-Case-Statement\main.cpp" Name="FileName"/>
+      <int Value="36" Name="FirstVisibleLine"/>
+      <int Value="26" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-9\79-Nested-If-Statements\Note.txt" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-9\80.1-Switch-Enum\main.cpp" Name="FileName"/>
+      <int Value="5" Name="FirstVisibleLine"/>
+      <int Value="6" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-9\80.2-Coding-Exercise-Day-Of-The-Week\main.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="23" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-9\83-For-Loop\main.cpp" Name="FileName"/>
+      <int Value="81" Name="FirstVisibleLine"/>
+      <int Value="99" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-9\83.1-Coding-Exercise-For-Loop-Sum-Of-Odd-Integers\main.cpp" Name="FileName"/>
+      <int Value="13" Name="FirstVisibleLine"/>
+      <int Value="14" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-9\84-Range-Based-For-Loop\main.cpp" Name="FileName"/>
+      <int Value="38" Name="FirstVisibleLine"/>
+      <int Value="39" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-9\84.1-Coding-Exercise-Using-The-Range-For-Loop\main.cpp" Name="FileName"/>
+      <int Value="14" Name="FirstVisibleLine"/>
+      <int Value="15" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-9\85-While-Loop\main.cpp" Name="FileName"/>
+      <int Value="74" Name="FirstVisibleLine"/>
+      <int Value="87" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-9\85.1-Coding-Exercise-While-Loop\main.cpp" Name="FileName"/>
+      <int Value="13" Name="FirstVisibleLine"/>
+      <int Value="14" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-9\86-Do-While-Loop\main.cpp" Name="FileName"/>
+      <int Value="27" Name="FirstVisibleLine"/>
+      <int Value="40" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-9\87-Continue-And-Break-Notes\Notes.txt" Name="FileName"/>
+      <int Value="21" Name="FirstVisibleLine"/>
+      <int Value="22" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-9\88-Infinite-Loop\Notes.txt" Name="FileName"/>
+      <int Value="31" Name="FirstVisibleLine"/>
+      <int Value="32" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-9\89-Nested-Loops\main.cpp" Name="FileName"/>
+      <int Value="47" Name="FirstVisibleLine"/>
+      <int Value="57" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-9\82-Looping-Note\Notes.txt" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-9\89.1-Histogram\main.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="6" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-9\90-Section-Challenge\main.cpp" Name="FileName"/>
+      <int Value="133" Name="FirstVisibleLine"/>
+      <int Value="146" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-9\81-Conditional-Operator\main.cpp" Name="FileName"/>
+      <int Value="4" Name="FirstVisibleLine"/>
+      <int Value="18" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="0" Name="Count"/>
+  </SerializedObject>
+  <wxString Value="*.c;*.cpp;*.cxx;*.cc;*.h;*.hpp;*.inc;*.mm;*.m;*.xrc;*.plist;*.txt" Name="m_findInFilesMask"/>
+</Session>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section-9" Database="" Version="10000">
+  <Project Name="76-Controlling-Program-Flow-Notes" Path="Section-9-Notes/Section-9-Notes.project" Active="No"/>
+  <Project Name="77-If-Statement" Path="77-If-Statement/77-If-Statement.project" Active="No"/>
+  <Project Name="78-If-Else-Statement" Path="78-If-Else-Statement/78-If-Else-Statement.project" Active="No"/>
+  <Project Name="80-Switch-Case-Statement" Path="80-Switch-Case-Statement/80-Switch-Case-Statement.project" Active="No"/>
+  <Project Name="79" Path="79.1-Grade/79.project" Active="No"/>
+  <Project Name="79" Path="79.2-Shipping/79.project" Active="No"/>
+  <Project Name="79-Nested-If-Statements" Path="79-Nested-If-Statements/79-Nested-If-Statements.project" Active="No"/>
+  <Project Name="83-For-Loop" Path="83-For-Loop/83-For-Loop.project" Active="No"/>
+  <Project Name="80" Path="80.2-Coding-Exercise-Day-Of-The-Week/80.project" Active="No"/>
+  <Project Name="84-Range-Based-For-Loop" Path="84-Range-Based-For-Loop/84-Range-Based-For-Loop.project" Active="No"/>
+  <Project Name="85-While-Loop" Path="85-While-Loop/85-While-Loop.project" Active="No"/>
+  <Project Name="86-Do-While-Loop" Path="86-Do-While-Loop/86-Do-While-Loop.project" Active="No"/>
+  <Project Name="87-Continue-And-Break-Notes" Path="87-Continue-And-Break-Notes/87-Continue-And-Break-Notes.project" Active="No"/>
+  <Project Name="88-Infinite-Loop" Path="88-Infinite-Loop/88-Infinite-Loop.project" Active="No"/>
+  <Project Name="89-Nested-Loops" Path="89-Nested-Loops/89-Nested-Loops.project" Active="No"/>
+  <Project Name="81-Conditional-Operator" Path="81-Conditional-Operator/81-Conditional-Operator.project" Active="No"/>
+  <Project Name="82-Looping-Note" Path="82-Looping-Note/82-Looping-Note.project" Active="No"/>
+  <Project Name="90-Section-Challenge" Path="90-Section-Challenge/90-Section-Challenge.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="76-Controlling-Program-Flow-Notes" ConfigName="Debug"/>
+      <Project Name="77-If-Statement" ConfigName="Debug"/>
+      <Project Name="78-If-Else-Statement" ConfigName="Debug"/>
+      <Project Name="79.1-Grade" ConfigName="Debug"/>
+      <Project Name="79.2-Shipping" ConfigName="Debug"/>
+      <Project Name="80-Switch-Case-Statement" ConfigName="Debug"/>
+      <Project Name="79.1-Grade" ConfigName="Debug"/>
+      <Project Name="79.2-Shipping" ConfigName="Debug"/>
+      <Project Name="79-Nested-If-Statements" ConfigName="Debug"/>
+      <Project Name="80.1-Switch-Enum" ConfigName="Debug"/>
+      <Project Name="80.2-Coding-Exercise-Day-Of-The-Week" ConfigName="Debug"/>
+      <Project Name="83-For-Loop" ConfigName="Debug"/>
+      <Project Name="83.1-Coding-Exercise-For-Loop-Sum-Of-Odd-Integers" ConfigName="Debug"/>
+      <Project Name="80.2-Coding-Exercise-Day-Of-The-Week" ConfigName="Debug"/>
+      <Project Name="84-Range-Based-For-Loop" ConfigName="Debug"/>
+      <Project Name="84.1-Coding-Exercise-Using-The-Range-For-Loop" ConfigName="Debug"/>
+      <Project Name="85-While-Loop" ConfigName="Debug"/>
+      <Project Name="85.1-Coding-Exercise-While-Loop" ConfigName="Debug"/>
+      <Project Name="86-Do-While-Loop" ConfigName="Debug"/>
+      <Project Name="87-Continue-And-Break-Notes" ConfigName="Debug"/>
+      <Project Name="88-Infinite-Loop" ConfigName="Debug"/>
+      <Project Name="89-Nested-Loops" ConfigName="Debug"/>
+      <Project Name="81-Conditional-Operator" ConfigName="Debug"/>
+      <Project Name="82-Looping-Note" ConfigName="Debug"/>
+      <Project Name="89.1-Histogram" ConfigName="Debug"/>
+      <Project Name="90-Section-Challenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="76-Controlling-Program-Flow-Notes" ConfigName="Release"/>
+      <Project Name="77-If-Statement" ConfigName="Release"/>
+      <Project Name="78-If-Else-Statement" ConfigName="Release"/>
+      <Project Name="79.1-Grade" ConfigName="Release"/>
+      <Project Name="79.2-Shipping" ConfigName="Release"/>
+      <Project Name="80-Switch-Case-Statement" ConfigName="Release"/>
+      <Project Name="79.1-Grade" ConfigName="Release"/>
+      <Project Name="79.2-Shipping" ConfigName="Release"/>
+      <Project Name="79-Nested-If-Statements" ConfigName="Release"/>
+      <Project Name="80.1-Switch-Enum" ConfigName="Release"/>
+      <Project Name="80.2-Coding-Exercise-Day-Of-The-Week" ConfigName="Release"/>
+      <Project Name="83-For-Loop" ConfigName="Release"/>
+      <Project Name="83.1-Coding-Exercise-For-Loop-Sum-Of-Odd-Integers" ConfigName="Release"/>
+      <Project Name="80.2-Coding-Exercise-Day-Of-The-Week" ConfigName="Release"/>
+      <Project Name="84-Range-Based-For-Loop" ConfigName="Release"/>
+      <Project Name="84.1-Coding-Exercise-Using-The-Range-For-Loop" ConfigName="Release"/>
+      <Project Name="85-While-Loop" ConfigName="Release"/>
+      <Project Name="85.1-Coding-Exercise-While-Loop" ConfigName="Release"/>
+      <Project Name="86-Do-While-Loop" ConfigName="Release"/>
+      <Project Name="87-Continue-And-Break-Notes" ConfigName="Release"/>
+      <Project Name="88-Infinite-Loop" ConfigName="Release"/>
+      <Project Name="89-Nested-Loops" ConfigName="Release"/>
+      <Project Name="81-Conditional-Operator" ConfigName="Release"/>
+      <Project Name="82-Looping-Note" ConfigName="Release"/>
+      <Project Name="89.1-Histogram" ConfigName="Release"/>
+      <Project Name="90-Section-Challenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

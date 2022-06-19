@@ -1,4 +1,3 @@
-C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-8\73.5-Coding-Exercise-Logical-Operators-And-Operator-Precedence\main.cpp
 C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-8\70-Relational-Operators\main.cpp
 C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-8\69-Testing-For-Equality\main.cpp
 C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-8\68-Mixed-Expressions-And-Conversions\main.cpp
