@@ -33,7 +33,7 @@ int main() {
         cout << num << " is " << diff << " less than " << target << endl;
     } else {
         cout << "===================================================" << endl;
-        cout << num << "is less then " << target << endl;
+        cout << num << " is less then " << target << endl;
         
         int diff { target - num };
         cout << num << " is " << diff << " less than " << target << endl;

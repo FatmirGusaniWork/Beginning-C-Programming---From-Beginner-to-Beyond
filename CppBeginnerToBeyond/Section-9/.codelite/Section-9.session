@@ -40,7 +40,7 @@
     </TabInfo>
     <TabInfo>
       <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-9\80-Switch-Case-Statement\main.cpp" Name="FileName"/>
-      <int Value="36" Name="FirstVisibleLine"/>
+      <int Value="25" Name="FirstVisibleLine"/>
       <int Value="26" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
@@ -61,15 +61,15 @@
     </TabInfo>
     <TabInfo>
       <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-9\80.2-Coding-Exercise-Day-Of-The-Week\main.cpp" Name="FileName"/>
-      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="22" Name="FirstVisibleLine"/>
       <int Value="23" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
       <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-9\83-For-Loop\main.cpp" Name="FileName"/>
-      <int Value="81" Name="FirstVisibleLine"/>
-      <int Value="99" Name="CurrentLine"/>
+      <int Value="38" Name="FirstVisibleLine"/>
+      <int Value="39" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
@@ -96,7 +96,7 @@
     </TabInfo>
     <TabInfo>
       <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-9\85-While-Loop\main.cpp" Name="FileName"/>
-      <int Value="74" Name="FirstVisibleLine"/>
+      <int Value="86" Name="FirstVisibleLine"/>
       <int Value="87" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
@@ -110,7 +110,7 @@
     </TabInfo>
     <TabInfo>
       <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-9\86-Do-While-Loop\main.cpp" Name="FileName"/>
-      <int Value="27" Name="FirstVisibleLine"/>
+      <int Value="39" Name="FirstVisibleLine"/>
       <int Value="40" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
@@ -131,7 +131,7 @@
     </TabInfo>
     <TabInfo>
       <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-9\89-Nested-Loops\main.cpp" Name="FileName"/>
-      <int Value="47" Name="FirstVisibleLine"/>
+      <int Value="56" Name="FirstVisibleLine"/>
       <int Value="57" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
@@ -145,15 +145,15 @@
     </TabInfo>
     <TabInfo>
       <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-9\89.1-Histogram\main.cpp" Name="FileName"/>
-      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="5" Name="FirstVisibleLine"/>
       <int Value="6" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
       <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-9\90-Section-Challenge\main.cpp" Name="FileName"/>
-      <int Value="133" Name="FirstVisibleLine"/>
-      <int Value="146" Name="CurrentLine"/>
+      <int Value="55" Name="FirstVisibleLine"/>
+      <int Value="69" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
