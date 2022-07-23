@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section-11" Database="" Version="10000">
+  <Project Name="Section-11-Notes" Path="Section-11-Notes/Section-11-Notes.project" Active="No"/>
+  <Project Name="102-What-Is-A-Function" Path="102-What-Is-A-Function/102-What-Is-A-Function.project" Active="No"/>
+  <Project Name="103-Function_Definition" Path="103-Function_Definition/103-Function_Definition.project" Active="No"/>
+  <Project Name="104-Function-Prototypes" Path="104-Function-Prototypes/104-Function-Prototypes.project" Active="No"/>
+  <Project Name="105-Function-Parameters-And-The-Return-Statement" Path="105-Function-Parameters-And-The-Return-Statement/105-Function-Parameters-And-The-Return-Statement.project" Active="No"/>
+  <Project Name="105.1-Coding-Exercise-Function-Converting-Temperature" Path="105.1-Coding-Exercise-Function-Converting-Temperature/105.1-Coding-Exercise-Function-Converting-Temperature.project" Active="No"/>
+  <Project Name="106-Default-Argument-Values" Path="106-Default-Argument-Values/106-Default-Argument-Values.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Section-11-Notes" ConfigName="Debug"/>
+      <Project Name="102-What-Is-A-Function" ConfigName="Debug"/>
+      <Project Name="102.5-Random" ConfigName="Debug"/>
+      <Project Name="103-Function_Definition" ConfigName="Debug"/>
+      <Project Name="102.5-Coding-Execrise-Using-Function-From-The-CMath-Library" ConfigName="Debug"/>
+      <Project Name="104-Function-Prototypes" ConfigName="Debug"/>
+      <Project Name="105-Function-Parameters-And-The-Return-Statement" ConfigName="Debug"/>
+      <Project Name="105.1-Coding-Exercise-Function-Converting-Temperature" ConfigName="Debug"/>
+      <Project Name="106-Default-Argument-Values" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Section-11-Notes" ConfigName="Release"/>
+      <Project Name="102-What-Is-A-Function" ConfigName="Release"/>
+      <Project Name="102.5-Random" ConfigName="Release"/>
+      <Project Name="103-Function_Definition" ConfigName="Release"/>
+      <Project Name="102.5-Coding-Execrise-Using-Function-From-The-CMath-Library" ConfigName="Release"/>
+      <Project Name="104-Function-Prototypes" ConfigName="Release"/>
+      <Project Name="105-Function-Parameters-And-The-Return-Statement" ConfigName="Release"/>
+      <Project Name="105.1-Coding-Exercise-Function-Converting-Temperature" ConfigName="Release"/>
+      <Project Name="106-Default-Argument-Values" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
