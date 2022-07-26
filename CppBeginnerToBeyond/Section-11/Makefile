@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ 106-Default-Argument-Values - Debug ]----------"
-	@cd "106-Default-Argument-Values" && "$(MAKE)" -f  "106-Default-Argument-Values.mk"
+	@echo "----------Building project:[ 108-Passing-Array-To-Function - Debug ]----------"
+	@cd "108-Passing-Array-To-Function" && "$(MAKE)" -f  "108-Passing-Array-To-Function.mk"
 clean:
-	@echo "----------Cleaning project:[ 106-Default-Argument-Values - Debug ]----------"
-	@cd "106-Default-Argument-Values" && "$(MAKE)" -f  "106-Default-Argument-Values.mk" clean
+	@echo "----------Cleaning project:[ 108-Passing-Array-To-Function - Debug ]----------"
+	@cd "108-Passing-Array-To-Function" && "$(MAKE)" -f  "108-Passing-Array-To-Function.mk" clean

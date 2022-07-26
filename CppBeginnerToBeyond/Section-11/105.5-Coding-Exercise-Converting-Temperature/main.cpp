@@ -1,4 +1,7 @@
-/*
+/* =================================================================
+ * Name: Fatmir Gusani 
+ * Date: 23.07.2022 
+ * =================================================================
  * Functions and Prototypes - Converting Temperatures
  * In this exercise you will create a program that will be used to convert Fahrenheit temperatures to Celsius and Kelvin temperatures through the use of two functions.
  * For this program, assume that temperature will be represented as a double value
@@ -14,8 +17,8 @@
  * Now, from the temperature conversion function, declare and initialize the variables celsius temperature and kelvin temperature by calling
  * the appropriate functions which you have just defined and passing the variable fahrenheit temperature
  * You do not need to declare or initialize fahrenheit temperature as it is already available up you as a parameter of the temperature conversion function.
- * You can find my solution by clicking on the solution.txt file on the left pane. But please make sure you give it a go yourself first, and only check
- * the solution if you really get stuck.
+ * You can find my solution by clicking on the solution.txt file on the left pane. But please make sure you give it a go yourself first, and only check the solution if you really get stuck.
+ * =================================================================
  */
  
 #include <iostream>
