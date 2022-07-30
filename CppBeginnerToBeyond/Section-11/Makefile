@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ 108-Passing-Array-To-Function - Debug ]----------"
-	@cd "108-Passing-Array-To-Function" && "$(MAKE)" -f  "108-Passing-Array-To-Function.mk"
+	@echo "----------Building project:[ 109-Pass-By-Reference - Debug ]----------"
+	@cd "109-Pass-By-Reference" && "$(MAKE)" -f  "109-Pass-By-Reference.mk"
 clean:
-	@echo "----------Cleaning project:[ 108-Passing-Array-To-Function - Debug ]----------"
-	@cd "108-Passing-Array-To-Function" && "$(MAKE)" -f  "108-Passing-Array-To-Function.mk" clean
+	@echo "----------Cleaning project:[ 109-Pass-By-Reference - Debug ]----------"
+	@cd "109-Pass-By-Reference" && "$(MAKE)" -f  "109-Pass-By-Reference.mk" clean

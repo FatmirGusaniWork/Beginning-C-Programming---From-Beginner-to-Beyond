@@ -8,13 +8,8 @@
   <Project Name="106-Default-Argument-Values" Path="106-Default-Argument-Values/106-Default-Argument-Values.project" Active="No"/>
   <Project Name="107-Overloading-Functions" Path="107-Overloading-Functions/107-Overloading-Functions.project" Active="No"/>
   <Project Name="108-Passing-Array-To-Function" Path="108-Passing-Array-To-Function/108-Passing-Array-To-Function.project" Active="No"/>
-  <Project Name="108.5-Coding-Exercise-Print-A-Guest-List" Path="108.5-Coding-Exercise-Print-A-Guest-List/108.5-Coding-Exercise-Print-A-Guest-List.project" Active="Yes"/>
-  <Project Name="107" Path="107.1-Coding-Exercise-Calculating-Area/107.project" Active="No"/>
-  <Project Name="107.5-Coding-Exercise-Calculating-Area" Path="107.5-Coding-Exercise-Calculating-Area/107.5-Coding-Exercise-Calculating-Area.project" Active="No"/>
-  <Project Name="105" Path="105.1-Coding-Exercise-Function-Converting-Temperature/105.project" Active="No"/>
-  <Project Name="106" Path="106.1-Coding-Exercise-Default-Argument-Values-Grocery-List/106.project" Active="No"/>
-  <Project Name="105.5-Coding-Exercise-Converting-Temperature" Path="105.5-Coding-Exercise-Converting-Temperature/105.5-Coding-Exercise-Converting-Temperature.project" Active="No"/>
-  <Project Name="106.5-Coding-Exercise-Grocery-List" Path="106.5-Coding-Exercise-Grocery-List/106.5-Coding-Exercise-Grocery-List.project" Active="No"/>
+  <Project Name="109-Pass-By-Reference" Path="109-Pass-By-Reference/109-Pass-By-Reference.project" Active="No"/>
+  <Project Name="109.5-Print-A-Guest-List" Path="109.5-Print-A-Guest-List/109.5-Print-A-Guest-List.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -35,6 +30,8 @@
       <Project Name="106.1-Coding-Exercise-Default-Argument-Values-Grocery-List" ConfigName="Debug"/>
       <Project Name="105.5-Coding-Exercise-Converting-Temperature" ConfigName="Debug"/>
       <Project Name="106.5-Coding-Exercise-Grocery-List" ConfigName="Debug"/>
+      <Project Name="109-Pass-By-Reference" ConfigName="Debug"/>
+      <Project Name="109.5-Print-A-Guest-List" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -55,6 +52,8 @@
       <Project Name="106.1-Coding-Exercise-Default-Argument-Values-Grocery-List" ConfigName="Release"/>
       <Project Name="105.5-Coding-Exercise-Converting-Temperature" ConfigName="Release"/>
       <Project Name="106.5-Coding-Exercise-Grocery-List" ConfigName="Release"/>
+      <Project Name="109-Pass-By-Reference" ConfigName="Release"/>
+      <Project Name="109.5-Print-A-Guest-List" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
