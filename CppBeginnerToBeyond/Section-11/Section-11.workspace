@@ -12,7 +12,8 @@
   <Project Name="110-Scope-Rules" Path="110-Scope-Rules/110-Scope-Rules.project" Active="No"/>
   <Project Name="111-How-Do-Function-Call-Work" Path="111-How-Do-Function-Call-Work/111-How-Do-Function-Call-Work.project" Active="No"/>
   <Project Name="112-Inline-Functions" Path="112-Inline-Functions/112-Inline-Functions.project" Active="No"/>
-  <Project Name="113-Recursive-Functions" Path="113-Recursive-Functions/113-Recursive-Functions.project" Active="Yes"/>
+  <Project Name="113-Recursive-Functions" Path="113-Recursive-Functions/113-Recursive-Functions.project" Active="No"/>
+  <Project Name="114-Section-Challenge" Path="114-Section-Challenge/114-Section-Challenge.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -39,6 +40,7 @@
       <Project Name="111-How-Do-Function-Call-Work" ConfigName="Debug"/>
       <Project Name="112-Inline-Functions" ConfigName="Debug"/>
       <Project Name="113-Recursive-Functions" ConfigName="Debug"/>
+      <Project Name="114-Section-Challenge" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -65,6 +67,7 @@
       <Project Name="111-How-Do-Function-Call-Work" ConfigName="Release"/>
       <Project Name="112-Inline-Functions" ConfigName="Release"/>
       <Project Name="113-Recursive-Functions" ConfigName="Release"/>
+      <Project Name="114-Section-Challenge" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
