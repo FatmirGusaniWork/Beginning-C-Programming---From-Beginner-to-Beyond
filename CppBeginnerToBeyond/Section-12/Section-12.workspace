@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section-12" Database="" Version="10000">
+  <Project Name="116-Section-Overview" Path="116-Section-Overview/116-Section-Overview.project" Active="Yes"/>
+  <Project Name="119-Assessing-Pointers" Path="119-Assessing-Pointers/119-Assessing-Pointers.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="116-Section-Overview" ConfigName="Debug"/>
+      <Project Name="119-Accessing-The-Pointer-Address-And_Storing-Address-In-A-Pointer" ConfigName="Debug"/>
+      <Project Name="119-Assessing-Pointers" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="116-Section-Overview" ConfigName="Release"/>
+      <Project Name="119-Accessing-The-Pointer-Address-And_Storing-Address-In-A-Pointer" ConfigName="Release"/>
+      <Project Name="119-Assessing-Pointers" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
