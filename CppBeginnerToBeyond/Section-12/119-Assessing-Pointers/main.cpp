@@ -84,9 +84,7 @@ using std::string;
 using std::vector;
 
 int main() {
-    
-    
-    cout << "THIS IS A TEST" << endl;
+
     int num {10};
     
     cout << "Value of num is: " << num << endl;

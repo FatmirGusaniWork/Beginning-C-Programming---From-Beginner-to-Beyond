@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Session Name="C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-12\Section-12.workspace">
-  <int Value="1" Name="m_selectedTab"/>
+  <int Value="3" Name="m_selectedTab"/>
   <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-12\Section-12.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
-    <TabInfo>
-      <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-12\119-Accessing-The-Pointer-Address-And_Storing-Address-In-A-Pointer\main.cpp" Name="FileName"/>
-      <int Value="61" Name="FirstVisibleLine"/>
-      <int Value="75" Name="CurrentLine"/>
-      <wxArrayString Name="Bookmarks"/>
-      <IntVector Name="CollapsedFolds"/>
-    </TabInfo>
     <TabInfo>
       <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-12\116-Section-Overview\Section-12-Notes.txt" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
@@ -19,12 +12,24 @@
     </TabInfo>
     <TabInfo>
       <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-12\119-Assessing-Pointers\main.cpp" Name="FileName"/>
-      <int Value="84" Name="FirstVisibleLine"/>
-      <int Value="85" Name="CurrentLine"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="9" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
-      <IntVector Name="CollapsedFolds">
-        <IntVectorItem Value="85"/>
-      </IntVector>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-12\120-Dereferencing-A-Pointer\main.cpp" Name="FileName"/>
+      <int Value="22" Name="FirstVisibleLine"/>
+      <int Value="47" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-12\121-Dynamic-Memory-Allocation\main.cpp" Name="FileName"/>
+      <int Value="63" Name="FirstVisibleLine"/>
+      <int Value="88" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
     </TabInfo>
   </TabInfoArray>
   <SerializedObject Name="m_breakpoints">
