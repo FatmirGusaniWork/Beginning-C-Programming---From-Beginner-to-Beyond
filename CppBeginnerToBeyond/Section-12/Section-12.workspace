@@ -3,7 +3,8 @@
   <Project Name="116-Section-Overview" Path="116-Section-Overview/116-Section-Overview.project" Active="No"/>
   <Project Name="119-Assessing-Pointers" Path="119-Assessing-Pointers/119-Assessing-Pointers.project" Active="No"/>
   <Project Name="120-Dereferencing-A-Pointer" Path="120-Dereferencing-A-Pointer/120-Dereferencing-A-Pointer.project" Active="No"/>
-  <Project Name="121-Dynamic-Memory-Allocation" Path="121-Dynamic-Memory-Allocation/121-Dynamic-Memory-Allocation.project" Active="Yes"/>
+  <Project Name="121-Dynamic-Memory-Allocation" Path="121-Dynamic-Memory-Allocation/121-Dynamic-Memory-Allocation.project" Active="No"/>
+  <Project Name="122-The-Relationship-Between-Arrays-And-Pointers" Path="122-The-Relationship-Between-Arrays-And-Pointers/122-The-Relationship-Between-Arrays-And-Pointers.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -12,6 +13,7 @@
       <Project Name="119-Assessing-Pointers" ConfigName="Debug"/>
       <Project Name="120-Dereferencing-A-Pointer" ConfigName="Debug"/>
       <Project Name="121-Dynamic-Memory-Allocation" ConfigName="Debug"/>
+      <Project Name="122-The-Relationship-Between-Arrays-And-Pointers" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -20,6 +22,7 @@
       <Project Name="119-Assessing-Pointers" ConfigName="Release"/>
       <Project Name="120-Dereferencing-A-Pointer" ConfigName="Release"/>
       <Project Name="121-Dynamic-Memory-Allocation" ConfigName="Release"/>
+      <Project Name="122-The-Relationship-Between-Arrays-And-Pointers" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
