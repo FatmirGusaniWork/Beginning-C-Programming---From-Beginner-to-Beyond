@@ -6,7 +6,7 @@
     <TabInfo>
       <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-12\116-Section-Overview\Section-12-Notes.txt" Name="FileName"/>
       <int Value="95" Name="FirstVisibleLine"/>
-      <int Value="116" Name="CurrentLine"/>
+      <int Value="121" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
@@ -33,15 +33,15 @@
     </TabInfo>
     <TabInfo>
       <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-12\122-The-Relationship-Between-Arrays-And-Pointers\main.cpp" Name="FileName"/>
-      <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="12" Name="CurrentLine"/>
+      <int Value="45" Name="FirstVisibleLine"/>
+      <int Value="46" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
       <wxString Value="C:\Users\Fatmir\OneDrive\Online Study\Beginning-C-Programming---From-Beginner-to-Beyond\CppBeginnerToBeyond\Section-12\123-Pointer-Arithmetic\main.cpp" Name="FileName"/>
-      <int Value="103" Name="FirstVisibleLine"/>
-      <int Value="117" Name="CurrentLine"/>
+      <int Value="51" Name="FirstVisibleLine"/>
+      <int Value="65" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
