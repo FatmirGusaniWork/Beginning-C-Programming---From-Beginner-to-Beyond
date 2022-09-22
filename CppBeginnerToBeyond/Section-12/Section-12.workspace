@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="Section-12" Database="" Version="10000">
-  <Project Name="116-Section-Overview" Path="116-Section-Overview/116-Section-Overview.project" Active="Yes"/>
+  <Project Name="116-Section-Overview" Path="116-Section-Overview/116-Section-Overview.project" Active="No"/>
   <Project Name="119-Assessing-Pointers" Path="119-Assessing-Pointers/119-Assessing-Pointers.project" Active="No"/>
   <Project Name="120-Dereferencing-A-Pointer" Path="120-Dereferencing-A-Pointer/120-Dereferencing-A-Pointer.project" Active="No"/>
   <Project Name="121-Dynamic-Memory-Allocation" Path="121-Dynamic-Memory-Allocation/121-Dynamic-Memory-Allocation.project" Active="No"/>
   <Project Name="122-The-Relationship-Between-Arrays-And-Pointers" Path="122-The-Relationship-Between-Arrays-And-Pointers/122-The-Relationship-Between-Arrays-And-Pointers.project" Active="No"/>
   <Project Name="123-Pointer-Arithmetic" Path="123-Pointer-Arithmetic/123-Pointer-Arithmetic.project" Active="No"/>
+  <Project Name="125-Passing-Pointer-To-Functions" Path="125-Passing-Pointer-To-Functions/125-Passing-Pointer-To-Functions.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -16,6 +17,7 @@
       <Project Name="121-Dynamic-Memory-Allocation" ConfigName="Debug"/>
       <Project Name="122-The-Relationship-Between-Arrays-And-Pointers" ConfigName="Debug"/>
       <Project Name="123-Pointer-Arithmetic" ConfigName="Debug"/>
+      <Project Name="125-Passing-Pointer-To-Functions" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -26,6 +28,7 @@
       <Project Name="121-Dynamic-Memory-Allocation" ConfigName="Release"/>
       <Project Name="122-The-Relationship-Between-Arrays-And-Pointers" ConfigName="Release"/>
       <Project Name="123-Pointer-Arithmetic" ConfigName="Release"/>
+      <Project Name="125-Passing-Pointer-To-Functions" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
