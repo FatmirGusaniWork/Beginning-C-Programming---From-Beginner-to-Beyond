@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ 125-Passing-Pointer-To-Functions - Debug ]----------"
-	@cd "125-Passing-Pointer-To-Functions" && "$(MAKE)" -f  "125-Passing-Pointer-To-Functions.mk"
+	@echo "----------Building project:[ 126-Returning-A-Pointer-From-A-Function - Debug ]----------"
+	@cd "126-Returning-A-Pointer-From-A-Function" && "$(MAKE)" -f  "126-Returning-A-Pointer-From-A-Function.mk"
 clean:
-	@echo "----------Cleaning project:[ 125-Passing-Pointer-To-Functions - Debug ]----------"
-	@cd "125-Passing-Pointer-To-Functions" && "$(MAKE)" -f  "125-Passing-Pointer-To-Functions.mk" clean
+	@echo "----------Cleaning project:[ 126-Returning-A-Pointer-From-A-Function - Debug ]----------"
+	@cd "126-Returning-A-Pointer-From-A-Function" && "$(MAKE)" -f  "126-Returning-A-Pointer-From-A-Function.mk" clean
